@@ -1,0 +1,238 @@
+
+.empty-body{
+    padding: 80px;
+    background-color: #354147;
+}
+body{
+    padding: 0%;
+    margin: 0%;
+}
+.body-bg{
+    background-image: url("../assets/marek-piwnicki-D8ud0BhqWdc-unsplash.jpg");
+    background-size: 100%;
+    min-height: 600px;
+    background-repeat: no-repeat;
+    padding: 30px 40px 0px 20px;
+}
+.header-tag{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+}
+.header-tag span{
+    font-size: 15px;
+    font-weight: 700;
+}
+.side-text{
+    display: inline-table;
+}
+.side-text h4{
+    font-size: 17px;
+    color: white;
+    font-weight: 900;
+    transform: rotate(90deg);
+    margin-top: 230px;
+    padding-left: 5px;
+    left: 20px;
+}
+.account{
+    padding: 0.1px;
+}
+#human-icon{
+    width: 50px;
+    padding-top: 3px;
+}
+.header-tag ul,li {
+    display: flex;
+    margin: 0;
+    padding: 0;
+    column-gap: 40px;
+    font-size: 15px;
+    font-weight: 700;
+}
+.background-body-info{
+    position: absolute;
+    left: 300px;
+    top: 350px;
+    display: inline;
+    padding: 50px;
+}
+.background-body-info hr{
+    display: inline-block;
+    width: 70px;
+    margin: 5px;
+}
+
+.background-body-info h4{
+    display: inline;
+    color: rgb(201, 201, 57);
+    text-transform: uppercase;
+    font-size: 12px;
+    font-family: sans-serif;
+}
+.background-body-info h1{
+    text-transform: capitalize;
+    font-size: 50px;
+    color: white;
+}
+.hiker-bg{
+    display: flex;
+    justify-content: space-around;
+    padding: 100px;
+    background-color: rgb(13, 36, 36);
+    column-gap: 1px;
+}
+.hiker-body {
+    color: white;
+    padding: 50px; 
+}
+.hiker-body hr{
+    display: inline-block;
+    width: 70px;
+    margin: 5px;
+}
+.hiker-body h2{
+    font-weight: 700;
+    font-size: 35px;
+}
+.hiker-body h5{
+    display: inline;
+    text-transform: uppercase;
+    color: darkgoldenrod;
+}
+.hiker-body p{
+    font-size: 13px;    
+}
+#img{
+    width: 300px;
+}
+#arrow{
+    width: 70px;
+    margin: 5px;
+}
+.hiker-body h6{
+    color: goldenrod;
+}
+.section-bg{
+    display: flex;
+    background-color:  rgb(13, 36, 36);
+    justify-content: space-around;
+    padding: 100px;
+}
+#sec-pic{
+    width: 300px;
+}
+.second-text{
+    color: white;
+
+    /* display: flex; */
+}
+.second-text hr{
+    display: inline-block;
+    width: 70px;
+    margin: 5px;
+}
+.second-text h5{
+    display: inline;
+}
+.second-text h6{
+    color: goldenrod;
+}
+.second-text h5{
+    color: goldenrod;
+    text-transform: uppercase;
+    /* font-size: 20%; */
+}
+.second-text h2{
+    font-weight: 700;
+    font-size: 35px;
+}
+.second-text p{
+    font-size: 13px;
+}
+.third-sec{
+    display: flex;
+    justify-content: space-around;
+    padding: 50px;
+    background-color: rgb(13, 36, 36);
+}
+.third-slide{
+   color: white;
+}
+.third-slide hr{
+    display: inline-block;
+    width: 70px;
+    margin: 6px;
+}
+.third-slide h2{
+    font-weight: 700;
+    font-size: 35px;
+}
+.third-slide h6{
+    color: goldenrod;
+}
+.third-slide h5{
+    display: inline;
+    color: goldenrod;
+    font-size: 13px;
+    text-transform: uppercase;
+}
+#third-img{
+    width: 300px;
+}
+.third-slide p{
+    font-size: 13px;
+}
+.inner-text{
+    display: flex;
+    justify-content: space-around;
+    padding: 100px;
+    /* background-color: #354147; */
+    background-color: rgb(13, 36, 36);
+
+}
+.text-one{
+    color: white;
+    font-weight: unset;
+}
+.text-one h3{
+    /* font-weight: 700; */
+    font-size: 17px;
+}
+.text-one #copy-r{
+    color: gray;
+    position: relative;
+    top: 30px;
+    padding-top: 60px;
+    font-size: 13px;
+}
+.text-one h4{
+    font-size: 12px;
+}
+.text-two{
+    color: white;
+}
+.text-two h3{
+    color: goldenrod;
+    font-weight: unset;
+
+}
+.text-two h4{
+    font-size: 12px;
+    font-weight: unset;
+}
+.text-three{
+    color: white;
+}
+.text-three h3{
+    color: goldenrod;
+    font-weight: unset;
+}
+.text-three h4{
+    font-weight: unset;
+    font-size: 12px;
+}
+.empty{
+    padding: 200px;
+    background-color: #354147;
+}
